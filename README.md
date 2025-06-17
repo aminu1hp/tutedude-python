@@ -1,2 +1,2 @@
-# tutedude-practice-submission
-Tutedude practice submission
+# tutedude-python
+Tutedude python practice submission
